@@ -1,0 +1,422 @@
+flex1,flex2,flex3,flex4,flex5,sign
+1023,1023,1023,1023,1019,hello
+1023,1023,1023,1023,1017,hello
+1023,1023,1023,1023,1017,hello
+1023,1023,1023,1023,1018,hello
+1022,1023,1023,1023,1022,hello
+1023,1023,1022,1023,1020,hello
+1023,1023,1023,1023,1019,hello
+1023,1023,1023,1023,1020,hello
+1023,1023,1023,1023,1019,hello
+1022,1023,1022,1023,1022,hello
+1023,1023,1022,1023,1020,hello
+1022,1023,1021,1023,1019,hello
+1022,1023,1022,1023,1016,hello
+1023,1023,1022,1023,1020,hello
+1022,1023,1022,1023,1017,hello
+1023,1023,1022,1023,1019,hello
+1022,1023,1022,1023,1017,hello
+1022,1023,1022,1023,1017,hello
+1022,1023,1022,1023,1018,hello
+1022,1023,1022,1023,1017,hello
+1022,1023,1021,1023,1017,hello
+1021,1023,1022,1022,1016,hello
+1022,1023,1022,1022,1016,hello
+1022,1023,1022,1023,1013,hello
+1021,1023,1021,1023,1014,hello
+1021,1023,1020,1023,1015,hello
+1022,1023,1022,1022,1015,hello
+1022,1023,1021,1023,1016,hello
+1022,1023,1021,1023,1016,hello
+1021,1023,1021,1023,1015,hello
+1022,1023,1021,1023,1014,hello
+1021,1023,1021,1023,1016,hello
+1022,1023,1021,1023,1014,hello
+1022,1023,1021,1023,1015,hello
+1023,1023,1021,1023,1014,hello
+1022,1023,1021,1023,1013,hello
+1022,1023,1021,1023,1015,hello
+1022,1023,1020,1023,1013,hello
+1021,1023,1022,1023,1015,hello
+1021,1023,1021,1023,1016,hello
+1021,1023,1022,1023,1014,hello
+1022,1023,1022,1023,1014,hello
+1022,1023,1021,1022,1015,hello
+1021,1023,1021,1023,1018,hello
+1021,1023,1022,1023,1017,hello
+1022,1023,1022,1023,1017,hello
+1022,1023,1021,1023,1015,hello
+1020,1023,1021,1023,1015,hello
+1022,1023,1021,1022,1017,hello
+1022,1023,1021,1023,1016,hello
+1021,1023,1021,1022,1017,hello
+1022,1023,1021,1023,1018,hello
+1022,1023,1021,1023,1016,hello
+1022,1023,1022,1023,1016,hello
+1021,1023,1020,1023,1017,hello
+1022,1023,1021,1023,1018,hello
+1021,1023,1021,1023,1018,hello
+1021,1023,1023,1022,1017,hello
+1022,1023,1021,1023,1017,hello
+1021,1023,1021,1023,1018,hello 
+1016,1023,993,1023,1013,give me a ticket
+1020,1023,992,1022,1015,give me a ticket
+1015,1023,992,1022,1014,give me a ticket
+1010,1023,990,1023,1016,give me a ticket
+1012,1023,988,1022,1016,give me a ticket
+1019,1023,984,1023,1017,give me a ticket
+1006,1022,983,1023,1018,give me a ticket
+1016,1023,988,1023,1015,give me a ticket
+1019,1023,980,1023,1016,give me a ticket
+1014,1023,990,1022,1015,give me a ticket
+1014,1022,982,1023,1016,give me a ticket
+1011,1023,977,1023,1014,give me a ticket
+1011,1022,984,1023,1014,give me a ticket
+1016,1023,983,1023,1013,give me a ticket
+1012,1023,983,1022,1012,give me a ticket
+1018,1022,984,1023,1014,give me a ticket
+1013,1023,985,1023,1014,give me a ticket
+1010,1023,987,1022,1014,give me a ticket
+1019,1022,983,1022,1015,give me a ticket
+1017,1023,984,1023,1015,give me a ticket
+1016,1023,976,1023,1015,give me a ticket
+1015,1023,980,1023,1016,give me a ticket
+1016,1023,979,1022,1016,give me a ticket
+1013,1023,975,1022,1018,give me a ticket
+1015,1022,974,1022,1016,give me a ticket
+1011,1023,977,1023,1014,give me a ticket
+1008,1023,979,1023,1015,give me a ticket
+1013,1023,975,1023,1015,give me a ticket
+1013,1023,977,1022,1014,give me a ticket
+1009,1022,980,1023,1015,give me a ticket
+1016,1022,985,1023,1018,give me a ticket
+1011,1022,979,1022,1015,give me a ticket
+1011,1022,975,1023,1015,give me a ticket
+1011,1023,977,1022,1017,give me a ticket
+1012,1021,977,1023,1014,give me a ticket
+1008,1023,973,1023,1015,give me a ticket
+1010,1023,976,1022,1018,give me a ticket
+1009,1023,974,1022,1017,give me a ticket
+1010,1022,977,1022,1018,give me a ticket
+1009,1022,976,1023,1016,give me a ticket
+1009,1017,973,1023,1016,give me a ticket
+1011,1017,972,1023,1017,give me a ticket
+1008,1016,971,1023,1014,give me a ticket
+1011,1013,972,1022,1015,give me a ticket
+1009,1016,967,1022,1016,give me a ticket
+1008,1016,970,1023,1015,give me a ticket
+1014,1017,970,1023,1016,give me a ticket
+1009,1017,973,1023,1017,give me a ticket
+1010,1015,971,1023,1014,give me a ticket
+1013,1017,970,1023,1013,give me a ticket
+1008,1016,967,1023,1015,give me a ticket
+1012,1016,977,1023,1015,give me a ticket
+1010,1016,971,1022,1015,give me a ticket
+1008,1016,974,1023,1014,give me a ticket
+1013,1016,968,1023,1016,give me a ticket
+1010,1015,971,1022,1014,give me a ticket
+1011,1015,969,1023,1017,give me a ticket
+1011,1016,970,1022,1017,give me a ticket
+1012,1015,963,1023,1015,give me a ticket
+1011,1015,967,1023,1014,give me a ticket 
+1023,997,1010,1023,1015,what is the next stop
+1021,1009,1009,1022,1012,what is the next stop
+1021,1004,1006,1023,1015,what is the next stop
+1021,1002,1008,1022,1017,what is the next stop
+1020,1008,1008,1023,1014,what is the next stop
+1021,1004,1007,1023,1015,what is the next stop
+1022,1004,1002,1023,1014,what is the next stop
+1021,1005,998,1023,1015,what is the next stop
+1020,1007,1001,1023,1015,what is the next stop
+1021,1005,1003,1023,1014,what is the next stop
+1021,1001,1001,1023,1013,what is the next stop
+1022,1006,998,1023,1014,what is the next stop
+1020,1005,1001,1022,1016,what is the next stop
+1022,1005,1000,1023,1016,what is the next stop
+1021,1003,1001,1022,1017,what is the next stop
+1021,999,998,1023,1013,what is the next stop
+1021,1004,997,1022,1015,what is the next stop
+1021,996,1004,1023,1013,what is the next stop
+1021,1004,999,1023,1015,what is the next stop
+1022,1003,997,1023,1014,what is the next stop
+1021,1003,1002,1022,1015,what is the next stop
+1021,1004,1000,1023,1015,what is the next stop
+1021,1000,997,1023,1016,what is the next stop
+1022,999,996,1023,1013,what is the next stop
+1021,1003,993,1022,1015,what is the next stop
+1021,1003,996,1023,1015,what is the next stop
+1021,1001,997,1023,1017,what is the next stop
+1021,999,995,1022,1016,what is the next stop
+1021,1000,996,1023,1015,what is the next stop
+1021,1008,996,1023,1015,what is the next stop
+1022,1002,999,1023,1015,what is the next stop
+1022,1002,993,1023,1016,what is the next stop
+1023,999,1000,1023,1013,what is the next stop
+1022,996,993,1023,1014,what is the next stop
+1021,1001,994,1023,1014,what is the next stop
+1021,994,997,1023,1015,what is the next stop
+1021,999,994,1023,1015,what is the next stop
+1021,1002,995,1022,1015,what is the next stop
+1021,996,994,1023,1015,what is the next stop
+1021,1001,997,1023,1015,what is the next stop
+1021,999,997,1022,1013,what is the next stop
+1020,1000,999,1023,1014,what is the next stop
+1021,999,997,1022,1014,what is the next stop
+1021,1006,992,1022,1015,what is the next stop
+1021,999,996,1023,1015,what is the next stop
+1021,994,996,1023,1015,what is the next stop
+1021,1000,994,1022,1014,what is the next stop
+1021,997,994,1023,1015,what is the next stop
+1021,1001,994,1023,1014,what is the next stop
+1021,1002,999,1023,1013,what is the next stop
+1021,1001,995,1023,1015,what is the next stop
+1021,1000,995,1023,1015,what is the next stop
+1021,998,993,1023,1015,what is the next stop
+1022,996,991,1023,1016,what is the next stop
+1020,1007,1010,1023,1012,what is the next stop
+1021,1001,1001,1022,1015,what is the next stop
+1021,997,996,1022,1014,what is the next stop
+1022,999,996,1023,1015,what is the next stop
+1022,996,997,1023,1015,what is the next stop
+1022,1002,997,1023,1014,what is the next stop 
+1015,985,1023,1022,1013,what is the current location
+1014,980,1023,1022,1014,what is the current location
+1014,984,1023,1022,1013,what is the current location
+1014,981,1023,1022,1014,what is the current location
+1015,981,1022,1023,1014,what is the current location
+1014,980,1023,1022,1014,what is the current location
+1014,979,1023,1022,1013,what is the current location
+1014,982,1023,1022,1011,what is the current location
+1014,978,1023,1022,1013,what is the current location
+1014,981,1023,1022,1014,what is the current location
+1013,980,1023,1023,1014,what is the current location
+1013,982,1023,1022,1014,what is the current location
+1014,983,1023,1022,1013,what is the current location
+1014,982,1023,1023,1014,what is the current location
+1013,979,1023,1022,1014,what is the current location
+1011,986,1023,1022,1015,what is the current location
+1012,987,1023,1022,1014,what is the current location
+1013,984,1023,1022,1015,what is the current location
+1014,984,1023,1022,1013,what is the current location
+1013,985,1023,1022,1013,what is the current location
+1014,982,1023,1022,1013,what is the current location
+1013,983,1023,1022,1014,what is the current location
+1012,984,1023,1021,1014,what is the current location
+1012,981,1023,1022,1014,what is the current location
+1022,1023,1023,1022,1012,what is the current location
+1019,1004,1023,1022,1013,what is the current location
+1016,1002,1023,1022,1013,what is the current location
+1015,1004,1023,1022,1014,what is the current location
+1015,1003,1023,1022,1013,what is the current location
+1022,1023,1023,1022,1013,what is the current location
+1016,1023,1022,1022,1014,what is the current location
+1017,1013,1023,1022,1014,what is the current location
+1018,1002,1023,1022,1014,what is the current location
+1023,999,1022,1022,1015,what is the current location
+1016,996,1023,1022,1014,what is the current location
+1015,993,1023,1022,1014,what is the current location
+1015,997,1023,1022,1015,what is the current location
+1015,996,1022,1022,1015,what is the current location
+1013,995,1023,1022,1014,what is the current location
+1015,997,1023,1022,1014,what is the current location
+1014,993,1023,1022,1014,what is the current location
+1014,995,1023,1022,1014,what is the current location
+1013,997,1023,1022,1015,what is the current location
+1014,995,1023,1022,1013,what is the current location
+1013,996,1023,1022,1013,what is the current location
+1013,995,1023,1022,1013,what is the current location
+1013,995,1022,1022,1019,what is the current location
+1012,991,1023,1022,1015,what is the current location
+1012,994,1023,1022,1013,what is the current location
+1013,991,1023,1022,1014,what is the current location
+1012,994,1023,1022,1013,what is the current location
+1012,993,1023,1022,1017,what is the current location
+1011,993,1023,1022,1013,what is the current location
+1011,995,1022,1022,1014,what is the current location
+1012,993,1023,1023,1015,what is the current location
+1014,988,1023,1022,1015,what is the current location
+1012,995,1023,1022,1016,what is the current location
+1012,994,1023,1022,1015,what is the current location
+1011,991,1022,1022,1014,what is the current location
+1012,995,1023,1022,1015,what is the current location
+1011,991,1023,1022,1015,what is the current location
+1012,993,1023,1022,1014,what is the current location
+1012,992,1022,1022,1015,what is the current location
+1012,993,1023,1022,1014,what is the current location
+1011,992,1023,1022,1013,what is the current location
+1012,992,1023,1022,1014,what is the current location
+1011,992,1023,1022,1014,what is the current location
+1011,990,1023,1023,1017,what is the current location
+1012,991,1023,1022,1016,what is the current location
+1013,992,1023,1022,1015,what is the current location
+1013,992,1023,1022,1018,what is the current location
+1012,991,1023,1022,1015,what is the current location
+1009,991,1023,1022,1015,what is the current location
+1010,993,1023,1022,1014,what is the current location
+1009,992,1023,1022,1017,what is the current location
+1010,990,1023,1022,1014,what is the current location
+1011,991,1023,1022,1014,what is the current location
+1011,991,1023,1021,1015,what is the current location
+1011,991,1023,1022,1014,what is the current location
+1011,991,1022,1022,1017,what is the current location
+1011,990,1023,1022,1015,what is the current location
+1012,991,1022,1022,1017,what is the current location
+1013,990,1023,1022,1015,what is the current location
+1013,991,1023,1022,1019,what is the current location
+1012,991,1023,1022,1014,what is the current location
+1012,991,1022,1022,1015,what is the current location
+1012,990,1023,1022,1016,what is the current location
+1012,992,1023,1022,1015,what is the current location
+1012,991,1023,1022,1014,what is the current location
+1011,991,1023,1022,1020,what is the current location
+1012,991,1023,1022,1015,what is the current location
+1016,991,1023,1022,1014,what is the current location
+1013,991,1023,1023,1015,what is the current location
+1013,991,1023,1022,1014,what is the current location
+1012,989,1023,1022,1014,what is the current location
+1013,990,1023,1022,1014,what is the current location
+1013,990,1023,1021,1015,what is the current location
+1013,991,1023,1022,1014,what is the current location
+1012,990,1023,1023,1018,what is the current location
+1012,990,1023,1022,1013,what is the current location
+1012,990,1023,1022,1013,what is the current location
+1012,989,1023,1022,1013,what is the current location
+1012,990,1023,1022,1012,what is the current location
+1021,1018,1023,952,1021,call for the help
+1021,1017,1022,948,1020,call for the help
+1021,1017,1022,953,1021,call for the help
+1021,1016,1023,951,1020,call for the help
+1021,1015,1022,949,1021,call for the help
+1021,1014,1022,944,1019,call for the help
+1021,1015,1022,940,1018,call for the help
+1021,1014,1022,938,1019,call for the help
+1020,1015,1022,938,1019,call for the help
+1020,1016,1023,936,1018,call for the help
+1021,1014,1022,937,1019,call for the help
+1021,1017,1023,939,1018,call for the help
+1020,1017,1022,934,1018,call for the help
+1021,1015,1022,934,1019,call for the help
+1020,1015,1022,936,1019,call for the help
+1020,1016,1022,932,1018,call for the help
+1020,1015,1022,932,1018,call for the help
+1021,1014,1021,937,1018,call for the help
+1021,1016,1021,936,1018,call for the help
+1020,1017,1022,934,1018,call for the help
+1020,1016,1022,935,1018,call for the help
+1020,1016,1022,939,1018,call for the help
+1020,1015,1022,941,1018,call for the help
+1021,1017,1022,942,1017,call for the help
+1021,1015,1022,938,1019,call for the help
+1020,1014,1022,938,1018,call for the help
+1021,1015,1021,938,1018,call for the help
+1021,1016,1022,933,1018,call for the help
+1021,1015,1021,937,1017,call for the help
+1021,1017,1022,936,1017,call for the help
+1020,1014,1022,943,1018,call for the help
+1021,1016,1022,935,1018,call for the help
+1021,1016,1022,935,1018,call for the help
+1021,1013,1021,939,1018,call for the help
+1020,1015,1021,935,1018,call for the help
+1020,1016,1022,934,1018,call for the help
+1020,1016,1022,934,1018,call for the help
+1020,1016,1021,942,1019,call for the help
+1020,1013,1022,940,1019,call for the help
+1021,1014,1022,939,1018,call for the help
+1021,1016,1022,942,1019,call for the help
+1020,1015,1022,944,1018,call for the help
+1020,1017,1021,944,1018,call for the help
+1021,1015,1022,943,1018,call for the help
+1020,1015,1022,942,1019,call for the help
+1021,1015,1022,945,1018,call for the help
+1021,1016,1022,951,1017,call for the help
+1021,1016,1021,954,1019,call for the help
+1020,1016,1022,944,1020,call for the help
+1020,1014,1021,949,1020,call for the help
+1020,1013,1021,934,1020,call for the help
+1020,1016,1021,937,1020,call for the help
+1021,1015,1021,935,1020,call for the help
+1021,1015,1021,940,931,call for the help
+1021,1015,1021,941,904,call for the help
+1021,1014,1022,941,1020,call for the help
+1021,1015,1021,939,1019,call for the help
+1020,1016,1021,938,1021,call for the help
+1021,1015,1022,947,1019,call for the help
+1021,1016,1022,940,1021,call for the help
+1020,1015,1022,942,1021,call for the help
+1021,1016,1021,944,1019,call for the help
+1020,1016,1022,940,1022,call for the help
+1021,1015,1022,938,1022,call for the help
+1020,1016,1021,935,1020,call for the help
+1021,1016,1022,937,1020,call for the help
+1020,1016,1021,939,1021,call for the help
+1021,1015,1022,942,1021,call for the help
+1021,1014,1022,935,1021,call for the help
+1021,1016,1022,935,1021,call for the help
+1021,1014,1021,939,1021,call for the help
+1021,1015,1021,941,1017,call for the help
+1020,1015,1021,938,1016,call for the help
+1020,1015,1021,937,1018,call for the help
+1020,1014,1021,941,1018,call for the help
+1020,1013,1021,938,1017,call for the help
+1020,1014,1021,936,1017,call for the help
+1020,1013,1021,936,1016,call for the help
+1020,1014,1021,940,1017,call for the help
+1020,1014,1021,935,1016,call for the help
+1020,1013,1020,937,1016,call for the help
+1020,1012,1021,937,1016,call for the help
+1020,1014,1021,930,1015,call for the help
+1020,1013,1021,934,1016,call for the help
+1020,1014,1021,937,1016,call for the help
+1020,1014,1020,934,1015,call for the help
+1020,1014,1020,930,1016,call for the help
+1020,1014,1021,935,1016,call for the help
+1020,1014,1021,933,1016,call for the help
+1020,1013,1021,930,1016,call for the help
+1020,1015,1021,929,1016,call for the help
+1020,1013,1021,938,1016,call for the help
+1020,1014,1021,933,1016,call for the help
+1020,1013,1021,935,1017,call for the help
+1020,1014,1021,936,1016,call for the help
+1020,1014,1021,933,1017,call for the help
+1020,1014,1022,954,1017,call for the help
+1020,1014,1021,942,1016,call for the help
+1021,1014,1021,941,1017,call for the help
+1020,1014,1021,933,1016,call for the help
+1020,1015,1021,933,1017,call for the help
+1020,1015,1021,939,1017,call for the help
+1020,1014,1021,936,1016,call for the help
+1020,1015,1021,942,1016,call for the help
+1021,1014,1021,942,1016,call for the help
+1021,1015,1021,938,1016,call for the help
+1020,1014,1021,944,1017,call for the help
+1021,1015,1021,939,1016,call for the help
+1021,1012,1021,933,1016,call for the help
+1021,1015,1021,929,1016,call for the help
+1020,1015,1021,927,1016,call for the help
+1021,1015,1021,944,1016,call for the help
+1020,1014,1021,930,1016,call for the help
+1020,1014,1021,935,1016,call for the help
+1020,1015,1021,941,1016,call for the help
+1021,1015,1021,937,1016,call for the help
+1020,1015,1021,939,1016,call for the help
+1020,1015,1021,940,1016,call for the help
+1020,1015,1021,942,1016,call for the help
+1021,1014,1021,943,1016,call for the help
+1021,1015,1020,940,1016,call for the help
+1020,1015,1022,948,1016,call for the help
+1021,1014,1021,947,1016,call for the help
+1021,1014,1021,943,1015,call for the help
+1021,1015,1021,943,1016,call for the help
+1020,1015,1021,941,1017,call for the help
+1020,1015,1021,957,1016,call for the help
+1021,1014,1021,943,1016,call for the help
+1021,1014,1022,941,1015,call for the help
+1020,1015,1021,945,1015,call for the help
+1020,1014,1020,942,1016,call for the help
+1020,1014,1020,943,1015,call for the help
+1020,1014,1021,941,1015,call for the help
+1020,1014,1020,944,1015,call for the help
+1020,1013,1021,946,1018,call for the help
+1020,1013,1021,944,1018,call for the help
+1020,1014,1021,943,1017,call for the help
+1020,1014,1021,942,1017,call for the help
