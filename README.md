@@ -1,4 +1,4 @@
-[See The Detailed Documentation Here](Wearable Sign Language Interpreter Using Flex Sensor and KNN Algorithm.pdf)
+[See The Detailed Documentation Here](https://github.com/VSKANDHAN/wearable-sign-language-interpreter-using-flexSensor-knn-algorithm/blob/main/Wearable%20Sign%20Language%20Interpreter%20Using%20Flex%20Sensor%20and%20KNN%20Algorithm.pdf)
 
 
 The "Wearable Sign Language Interpreter: Real-Time Gesture Recognition and Audio 
